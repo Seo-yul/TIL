@@ -1,22 +1,22 @@
 # 함수 및 람다(lambda)
 
-# 람다
+## 람다
 
-## 함수 정의 방법
+### 함수 정의 방법
 
 `def 함수명(parameter):`
 
-## 함수 호출
+### 함수 호출
 
 `함수명(parameter)`
 
-## 람다의 특징
+### 람다의 특징
 
 - 람다식 : 메모리 절약, 가독성 향상, 코드 간결
 - 함수는 객체 생성 → 리소스(메모리) 할당
 - 람다는 즉시 실행(Heap 초기화) → 메모리 초기화
 
-## 함수 정의와 호출 예제
+### 함수 정의와 호출 예제
 
 ```python
 def hello(world):
@@ -29,7 +29,7 @@ def hello_return(world):
 	return val
 ```
 
-# 함수의 다중 리턴
+## 함수의 다중 리턴
 
 ```python
 def func_mul(x):
@@ -42,7 +42,7 @@ val1, val2, val3 = func_mul(100)
 # 10000 20000 30000
 ```
 
-# *args, **kwargs
+## *args, **kwargs 파라미터
 
 parameter가 몇개인지 모르는 상황에서 받는 방법이다.
 
@@ -71,7 +71,7 @@ def kwargs_func(**kwargs):
 kwargs_func(name1='kim', name2='park', name3='lee')
 ```
 
-# 중첩함수(클로저)
+## 중첩함수(클로저)
 
 함수안에 함수가 있는 상태
 
@@ -87,11 +87,11 @@ def nested_func(num):
 nested_func(10000)
 ```
 
-# 데코레이터
+## 데코레이터
 
 파이썬 공부 더 한후 구글링해서 공부 할 것!
 
-# 파이썬 함수의 힌트
+## 파이썬 함수의 힌트
 
 함수의 파라미터와 리턴값을 알려줄 수 있다.
 
