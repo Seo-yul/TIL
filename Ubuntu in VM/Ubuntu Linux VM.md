@@ -224,7 +224,7 @@ root 사용자는 사용자 ID와 소속 그룹 ID가 모두 0
 `/etc/group` : 유저 그룹이 정의 되어있는 파일
 
 '그룹 이름:비밀번호:그룹 ID:보조 그룹 사용자'
-![Untitled1.png](https://github.com/resourceSaga/TIL/blob/master/Ubuntu%20in%20VM/Ubuntu%20Linux%20VM/Untitled1.png?raw=true)
+![Untitled1.png](https://github.com/resourceSaga/TIL/blob/master/Ubuntu%20in%20VM/Ubuntu%20Linux%20VM/Untitled%201.png?raw=true)
 
 ## 사용자 추가하기 adduser
 
@@ -283,7 +283,7 @@ gpasswd -d user_name group_name    # 사용자를 그룹에서 제거
 
 # 소유권과 허가권
 
-![Untitled2.png](https://github.com/resourceSaga/TIL/blob/master/Ubuntu%20in%20VM/Ubuntu%20Linux%20VM/Untitled2.png?raw=true)
+![Untitled2.png](https://github.com/resourceSaga/TIL/blob/master/Ubuntu%20in%20VM/Ubuntu%20Linux%20VM/Untitled%202.png?raw=true)
 
 r : read
 
@@ -291,7 +291,7 @@ w : write
 
 x : execute
 
-![Untitled3.png](https://github.com/resourceSaga/TIL/blob/master/Ubuntu%20in%20VM/Ubuntu%20Linux%20VM/Untitled3.png?raw=true)
+![Untitled3.png](https://github.com/resourceSaga/TIL/blob/master/Ubuntu%20in%20VM/Ubuntu%20Linux%20VM/Untitled%203.png?raw=true)
 디렉토리에 접근하기 위해서는 x 권한이 있어야 한다.
 
 ## 파일 허가권의 변경 chmod
@@ -318,7 +318,7 @@ root 사용자나 해당 파일의 소유자만 실행 가능
 
 `ln -s original_file link_file` : 심볼릭 링크 생성
 
-![Untitled4.png](https://github.com/resourceSaga/TIL/blob/master/Ubuntu%20in%20VM/Ubuntu%20Linux%20VM/Untitled4.png?raw=true)
+![Untitled4.png](https://github.com/resourceSaga/TIL/blob/master/Ubuntu%20in%20VM/Ubuntu%20Linux%20VM/Untitled%204.png?raw=true)
 
 하드링크는 원본 파일을 이동해도 inode 를 똑같이 추적하여 링크가 끊기지 않지만 심볼릭 링크는 새로운 inode를 가지기 때문에 원본 파일 이동시 포인터가 끊긴다.
 
@@ -427,7 +427,7 @@ root 사용자나 해당 파일의 소유자만 실행 가능
 
 rub-mkconfig 명령을 실행해야 함
 
-![Untitled5.png](https://github.com/resourceSaga/TIL/blob/master/Ubuntu%20in%20VM/Ubuntu%20Linux%20VM/Untitled5.png?raw=true)
+![Untitled5.png](https://github.com/resourceSaga/TIL/blob/master/Ubuntu%20in%20VM/Ubuntu%20Linux%20VM/Untitled%205.png?raw=true)
 
 1행: GRUB 목록 중에서 0번째(첫 번째)가 기본으로 선택
 
@@ -447,7 +447,7 @@ rub-mkconfig 명령을 실행해야 함
 
 - 배쉬셸의 주요 환경 변수
 
-![Untitled6.png](https://github.com/resourceSaga/TIL/blob/master/Ubuntu%20in%20VM/Ubuntu%20Linux%20VM/Untitled6.png?raw=true)
+![Untitled6.png](https://github.com/resourceSaga/TIL/blob/master/Ubuntu%20in%20VM/Ubuntu%20Linux%20VM/Untitled%206.png?raw=true)
 
 ## 셸 스크립트
 
@@ -515,11 +515,11 @@ exit 0
 
 조건문은 문자열 비교와 산술 비교가 가능하다.
 
-![Untitled7.png](https://github.com/resourceSaga/TIL/blob/master/Ubuntu%20in%20VM/Ubuntu%20Linux%20VM/Untitled7.png?raw=true)
+![Untitled7.png](https://github.com/resourceSaga/TIL/blob/master/Ubuntu%20in%20VM/Ubuntu%20Linux%20VM/Untitled%207.png?raw=true)
 
 **파일 조건**
 
-![Untitled8.png](https://github.com/resourceSaga/TIL/blob/master/Ubuntu%20in%20VM/Ubuntu%20Linux%20VM/Untitled8.png?raw=true)
+![Untitled8.png](https://github.com/resourceSaga/TIL/blob/master/Ubuntu%20in%20VM/Ubuntu%20Linux%20VM/Untitled%208.png?raw=true)
 
 ### case문
 
