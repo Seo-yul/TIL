@@ -57,6 +57,9 @@
 
 DevOps를 위한 인프라 자동화를 배워보자
 
-# [Git](./Git)
+[1.Vagrant](./DevOps/Vagrant.md)
 
+[2.Ansible](./DevOps/Ansible.md)
+
+# [Git](./Git/Git%20%EC%82%AC%EC%9A%A9%ED%95%98%EA%B8%B0.md)
 형상 관리 프로그램인 git의 사용법을 알아보자.
