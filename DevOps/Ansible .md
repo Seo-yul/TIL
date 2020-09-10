@@ -90,7 +90,7 @@ roles 디렉토리 안에 templates 를 확인한다.
 
 `--diff` : 변경의 차이를 표시
 
-![%E1%84%8B%E1%85%A2%E1%86%AB%E1%84%89%E1%85%A5%E1%84%87%E1%85%B3%E1%86%AF%20Ansible%206ab7b03f4b8b43b0a727db193a4f8680/Untitled.png](%E1%84%8B%E1%85%A2%E1%86%AB%E1%84%89%E1%85%A5%E1%84%87%E1%85%B3%E1%86%AF%20Ansible%206ab7b03f4b8b43b0a727db193a4f8680/Untitled.png)
+![Untitled.png](./Ansible/Untitled.png?raw=true)
 
 templates에서 변경한 것을 확인 가능. 하지만 실제로 적용안됨.
 
@@ -369,7 +369,7 @@ File "/usr/share/nginx/html/index.html"
 
 `ansible-playbook -i development site.yml`
 
-![%E1%84%8B%E1%85%A2%E1%86%AB%E1%84%89%E1%85%A5%E1%84%87%E1%85%B3%E1%86%AF%20Ansible%206ab7b03f4b8b43b0a727db193a4f8680/Untitled%201.png](%E1%84%8B%E1%85%A2%E1%86%AB%E1%84%89%E1%85%A5%E1%84%87%E1%85%B3%E1%86%AF%20Ansible%206ab7b03f4b8b43b0a727db193a4f8680/Untitled%201.png)
+![Untitled%201.png](./Ansible/Untitled%201.png?raw=true)
 
 통과!
 
