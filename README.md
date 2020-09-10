@@ -55,7 +55,7 @@
 
 # [DevOps](./DevOps)
 
-작성중
+DevOps를 위한 인프라 자동화를 배워보자
 
 # [Git](./Git)
 
