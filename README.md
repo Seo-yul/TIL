@@ -49,3 +49,14 @@
 
 
 
+# [Ubuntu in VM](./Ubuntu in VM)
+
+버추얼 박스를 사용한 환경에서 우분투에 관해 살펴본다.
+
+# [DevOps](./DevOps)
+
+a
+
+# [Git](./Git)
+
+형상 관리 프로그램인 git의 사용법을 알아보자.
