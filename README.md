@@ -49,13 +49,13 @@
 
 
 
-# [Ubuntu in VM](./Ubuntu in VM)
+# [Ubuntu in VM](./Ubuntu%20in%20VM)
 
 버추얼 박스를 사용한 환경에서 우분투에 관해 살펴본다.
 
 # [DevOps](./DevOps)
 
-a
+작성중
 
 # [Git](./Git)
 
