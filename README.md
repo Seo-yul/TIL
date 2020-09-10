@@ -49,7 +49,7 @@
 
 
 
-# [Ubuntu in VM](./Ubuntu%20in%20VM)
+# [Ubuntu in VM](./Ubuntu%20in%20VM/Ubuntu%20Linux%20VM.md)
 
 버추얼 박스를 사용한 환경에서 우분투에 관해 살펴본다.
 
