@@ -224,6 +224,7 @@ root 사용자는 사용자 ID와 소속 그룹 ID가 모두 0
 `/etc/group` : 유저 그룹이 정의 되어있는 파일
 
 '그룹 이름:비밀번호:그룹 ID:보조 그룹 사용자'
+
 ![Untitled1.png](https://github.com/resourceSaga/TIL/blob/master/Ubuntu%20in%20VM/Ubuntu%20Linux%20VM/Untitled%201.png?raw=true)
 
 ## 사용자 추가하기 adduser
