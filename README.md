@@ -47,7 +47,9 @@
 
 [5. 시퀀스 자료형 (순서가 있는)](./파이썬/5%20시퀀스%20자료형%20(순서가%20있는).md)
 
+# [Django](./Django/Django.md)
 
+Django 프레임 워크 이론과 실습
 
 # [Ubuntu in VM](./Ubuntu%20in%20VM/Ubuntu%20Linux%20VM.md)
 
@@ -60,6 +62,20 @@ DevOps를 위한 인프라 자동화를 배워보자
 [1.Vagrant](./DevOps/Vagrant.md)
 
 [2.Ansible](./DevOps/Ansible.md)
+
+[3.Docker](./DevOps/Docker.md)
+
+[4.Docker-compose](./DevOps/Docker-compose.md)
+
+[5.Docker_swarm_cluster](./DevOps/Docker_swarm_cluster.md)
+
+[6.Jenkins](./DevOps/Jenkins.md)
+
+[7.Kubernetes](./DevOps/Kubernetes.md)
+
+# [네이버 클라우드 플랫폼](./NBP)
+
+[1 네이버 클라우드 플랫폼 서비스](./NBP/1%20네이버%20클라우드%20플랫폼%20서비스.md)
 
 # [Git](./Git/Git%20%EC%82%AC%EC%9A%A9%ED%95%98%EA%B8%B0.md)
 형상 관리 프로그램인 git의 사용법을 알아보자.
