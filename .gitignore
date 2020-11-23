@@ -1,5 +1,6 @@
 .vscode/*
 .idea/*
+DevOps/Vagrant/.vagrant/*
 
 # Created by https://www.toptal.com/developers/gitignore/api/venv,python,node,django,visualstudiocode,pycharm,webstorm
 # Edit at https://www.toptal.com/developers/gitignore?templates=venv,python,node,django,visualstudiocode,pycharm,webstorm
